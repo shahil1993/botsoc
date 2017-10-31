@@ -1,7 +1,7 @@
 'use strict';
 
 const socket = io();
-
+//hello test comment
 const outputYou = document.querySelector('.output-you');
 const outputBot = document.querySelector('.output-bot');
 
